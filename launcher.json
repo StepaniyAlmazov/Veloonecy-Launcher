@@ -24,7 +24,7 @@
       "image": "https://raw.githubusercontent.com/StepaniyAlmazov/Veloonecy-Launcher/refs/heads/main/VehicleCatcher/image.png",
       "url": "https://raw.githubusercontent.com/StepaniyAlmazov/Veloonecy-Launcher/refs/heads/main/VehicleCatcher/VehCatcher.asi",
       "format": "asi",
-      "available": false,
+      "available": true,
       "inject": true,
       "install": {
         "status": true,
